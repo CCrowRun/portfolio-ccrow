@@ -101,6 +101,15 @@ p {
   width: 100%;
 }
 
+.app-links {
+  text-align: center;
+}
+
+.app-links a {
+  padding: 5px;
+  margin: 15px;
+}
+
 .skills-and-tools {
   max-width: 400px;
   margin: 40px auto;
